@@ -1,4 +1,4 @@
-##### Oop Concept ####
+# Oops Concept 
 
 OOP(Oject Oriented Programming) is model that is used to represent real world object( and their relationships) into programming. It provide components to transform object into function & properties.
 
